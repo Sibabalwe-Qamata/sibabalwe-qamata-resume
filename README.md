@@ -1,6 +1,8 @@
-# 1 - Hello world
+# sibabalwe-qamata-resume
 
-![Build Status][ci-badge]
+
+1.  View the deployed app at [https://sibabalwe-qamata-resume.appspot.com/](https://sibabalwe-qamata-resume.appspot.com/)
+<!-- ![Build Status][ci-badge]
 
 This folder contains the sample code for a small App Engine application that
 displays a short message. See the instructions below for how to configure, run,
@@ -41,7 +43,7 @@ and deploy this sample.
 
 1.  Deploy the app:
 
-        gcloud app deploy
+        gcloud app deploy -->
 
-1.  View the deployed app at [https://YOUR_PROJECT_ID.appspot.com](https://YOUR_PROJECT_ID.appspot.com).
-# sibabalwe-qamata-resume
+
+
